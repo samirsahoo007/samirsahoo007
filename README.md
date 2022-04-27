@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samir Sahoo(@samirsahoo007), currently working at Morgan Stanley.
+- 👋 Hi, I’m Samir Sahoo(@samirsahoo007), currently working as a Software Developer at Morgan Stanley.
 - 👀 I’m interested in coding and contributing in open source projects.
 - 🌱 I’m currently learning/working in Scala.
 - 💞️ I’m looking to collaborate on Python/Scala projects.
